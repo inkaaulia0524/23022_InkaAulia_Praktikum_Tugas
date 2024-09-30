@@ -17,7 +17,6 @@ public class Matematika {
     }
 
     
-    
     public void pengurangan(int a, int b) {
         int hasil = a - b;
         System.out.println("Pengurangan: " + a + " - " + b + " = " + hasil);
